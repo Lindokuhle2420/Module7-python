@@ -12,10 +12,8 @@ employees = {
 x = employees.items()
 print("*********Attendance for week**********")
 print(" ")
-print(" ")
-print(" ")
 for employee,days in x:
     if days < 5:
-       print (employee,"-attended", days,"days",": therefore missed certain days at work this week") 
+       print ( employee,"attended", days,"day(s)","-therefore missed certain days at work this week") 
     else:
-      print (employee,"attended", days,"days",":therefore present all week")   
+      print ( employee,"attended", days,"day(s)","-therefore present all week")   
