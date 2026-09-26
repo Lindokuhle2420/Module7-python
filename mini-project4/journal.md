@@ -4,3 +4,4 @@ The Final project consists of many methods that are performing functions. Date o
 date: 27 September 2026
 We have been doing python training for the past 4 weeks,it has been tricky and a lot to take in but of course fun to learn at the same time.
 
+
