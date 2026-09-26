@@ -1,9 +1,6 @@
-**17 may 2026**
-Dear Journal I am writing this stressed about a certain unsure situation in my life, a cross road that I need to prray about. I am stuck between wanting to finish the bootcamp training or quit the trainingand start the call centre job to make money for what's about to happen next year.
+date: 26 September 2026
+The Final project consists of many methods that are performing functions. Date objects and other data types are coming together to make a function student registry.
 
-**18 May 2026**
-Dear Journal I am writing this stressed about a certain unsure situation in my life, a cross road that I need to prray about. I am stuck between wanting to finish the bootcamp training or quit the trainingand start the call centre job to make money for what's about to happen next year.
-
-date: 14 JAN 2025
-Dear Journal I am writing this stressed about a certain unsure situation in my life, a cross road that I need to prray about. I am stuck between wanting to finish the bootcamp training or quit the trainingand start the call centre job to make money for what's about to happen next year.
+date: 27 September 2026
+We have been doing python training for the past 4 weeks,it has been tricky and a lot to take in but of course fun to learn at the same time.
 

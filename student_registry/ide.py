@@ -1,0 +1,2 @@
+x = "Lindo"
+print(x)

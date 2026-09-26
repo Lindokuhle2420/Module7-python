@@ -15,8 +15,10 @@ class Bike(Vehicles) :
     def vehicle_sound(self):
         print(f"{self.vehicle_type} goes druuu druuu!")
 
-print ("******Sounds Made by different forms of Vehicles******")
-print(" ")
+print ("******Sounds Made by different forms of Vehicles******\n")
+
 car = Car("Toyota")
 bike = Bike("Honda-bike")
-Vehicles.vehicle_sound(car)
+
+Bike.vehicle_sound(bike)
+Car.vehicle_sound(car)
